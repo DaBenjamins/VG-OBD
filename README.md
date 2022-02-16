@@ -13,7 +13,7 @@ Any Issues contact Benjamins#0001
 	2. VLC Player - https://www.videolan.org/vlc/download-windows.html
 3. Install plugins into your OBS
 4. Verify Spectralizer is a source type
-5. Import .json through Scene Collection
+5. Import .json through Scene Collection on toolbar
 6. Ignore Missing Files dialog box, click cancel
 7. CHECK AUDIO SOURCES
 
